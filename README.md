@@ -1,17 +1,13 @@
-test
-====
-
-This is just a test folder
-#H1
-##^_^
-
-### LeetCode
+### LeetCode Solutions
+Classified by Difficulty
 * [easy](#easy)
 * [Medium](#Medium)
 * [Hard](#hard)
 
 ### Easy
-None
+Name			|	Add Date	|	Solution
+---------------------------------------------------------------
+Palindrome Number(https://oj.leetcode.com/problems/palindrome-number/)	|2012-01-04|not yet
 ### Medium
 None
 ### Hard
