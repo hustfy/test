@@ -5,9 +5,10 @@ Classified by Difficulty
 * [Hard](#hard)
 
 ### Easy
-Name			|	Add Date	|	Solution
----------------------------------------------------------------
-Palindrome Number(https://oj.leetcode.com/problems/palindrome-number/)	|2012-01-04|not yet
+| Name   									|  Solution 				|
+|-------------------------------------------------------------------------------|---------------------------------------|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)	| Solution				|
+
 ### Medium
 None
 ### Hard
