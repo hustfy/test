@@ -5,9 +5,9 @@ Classified by Difficulty
 * [Hard](#hard)
 
 ### Easy
-| Name   									|  Solution 				|
-|-------------------------------------------------------------------------------|---------------------------------------|
-|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)	| Solution				|
+|Name   									|Solution				|language	|
+|-------------------------------------------------------------------------------|---------------------------------------|---------------|
+|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)	|Solution				|C++			|
 
 ### Medium
 None
